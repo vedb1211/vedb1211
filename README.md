@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let me give you a g
 
 ## :bust_in_silhouette: About Me
 
-I am a Data Science enthusiast with a keen interest in Machine Learning, Deep Learning and Statistical Inferences. Whether it's Data or Data Algorithms, I'm always excited to dive into new challenges and learn something new.
+I am a Data Science enthusiast with a keen interest in Machine Learning, Deep Learning and Statistical Inferences. Whether it's Data or Algorithms, I'm always excited to dive into new challenges and learn something new.
 
 ## :computer: Tech Stack
 
