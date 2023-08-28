@@ -9,7 +9,7 @@ I am a Data Science enthusiast with a keen interest in Machine Learning, Deep Le
 
 ## :computer: Tech Stack
 
-- **Languages**: Python, C++, Java, HTML
+- **Languages**: Python, R, C++, Java, SQL, HTML
 - **Frameworks**: TensforFlow
 - **Tools**: PowerBI, Tableau, Android SDK
 
