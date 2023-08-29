@@ -22,7 +22,7 @@ Currently, I'm working on comparing the optmizers of Neural Network and CNN. I'm
 I'm always open to interesting conversations and collaborations. Whether you want to discuss Machine Learning, share insights about Data Science, or just say hi, feel free to reach out to me.
 
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vedbhatt/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/vedbhatt/)
 
 
 
