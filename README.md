@@ -16,7 +16,7 @@ I'm always excited by opportunities to solve real-world problems—whether it’
 - 🌱 **Currently Learning** – Exploring advanced Spring Boot patterns, microservices architecture, and enhancing applications with Generative AI using Langchain & Hugging Face.
 
 ## 📄 Checkout My Resume
-- [View Resume](https://drive.google.com/file/d/1ii6_zlee2fDkOFHTLAk1f445ooSPPgyV/view?usp=sharing)
+- [View Resume](https://drive.google.com/file/d/1cUbFUx-Iv7XCqJSaQAyprNXw6Py6Agan/view?usp=sharing)
 
 ## 💬 Let's Connect
 I'm always open to interesting conversations and collaborations. Whether you want to discuss backend systems, share insights about machine learning, or just say hi—feel free to reach out!
